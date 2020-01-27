@@ -1,9 +1,6 @@
 library(data.table)
 library(magrittr)
 
-# colour palettes
-pal.qual <- c("#FF9E4A", "#AD8BC9", "#A2A2A2")
-
 ## SS2
 # load pre-processed data
 meta.ss2 <- fread("E-MTAB-6678/meta_ss2.txt")
