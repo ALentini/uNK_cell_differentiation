@@ -1,4 +1,4 @@
-suppressMessages(source("R/load_data_scran.R"))
+suppressMessages(source("R/load_data.R"))
 
 ### functions
 
